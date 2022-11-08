@@ -1,0 +1,12 @@
+C:\Users\EJ\source\repos\signup-login\signup-login\bin\Debug\signup-login.exe.config
+C:\Users\EJ\source\repos\signup-login\signup-login\bin\Debug\signup-login.exe
+C:\Users\EJ\source\repos\signup-login\signup-login\bin\Debug\signup-login.pdb
+C:\Users\EJ\source\repos\signup-login\signup-login\obj\Debug\signup-login.csproj.AssemblyReference.cache
+C:\Users\EJ\source\repos\signup-login\signup-login\obj\Debug\signup_login.frmrRegister.resources
+C:\Users\EJ\source\repos\signup-login\signup-login\obj\Debug\signup_login.Properties.Resources.resources
+C:\Users\EJ\source\repos\signup-login\signup-login\obj\Debug\signup-login.csproj.GenerateResource.cache
+C:\Users\EJ\source\repos\signup-login\signup-login\obj\Debug\signup-login.csproj.CoreCompileInputs.cache
+C:\Users\EJ\source\repos\signup-login\signup-login\obj\Debug\signup-login.exe
+C:\Users\EJ\source\repos\signup-login\signup-login\obj\Debug\signup-login.pdb
+C:\Users\EJ\source\repos\signup-login\signup-login\obj\Debug\signup_login.frmlogin.resources
+C:\Users\EJ\source\repos\signup-login\signup-login\obj\Debug\signup_login.Form2.resources
